@@ -155,3 +155,12 @@ You are required to submit the following for review:
 
 ---
 © 2022 Trilogy Education Services, LLC, a 2U, Inc. brand. Confidential and Proprietary. All Rights Reserved.
+
+## screenshots of webpage
+
+![](assets/images/Screenshot%202022-10-17%20173205.png)
+
+![](assets/images/Screenshot%202022-10-17%20173132.png)
+
+
+![](assets/images/Screenshot%202022-10-17%20173225.png)
